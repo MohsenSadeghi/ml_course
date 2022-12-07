@@ -2,6 +2,8 @@
 
 In this repository, you find the resources of my teaching module.
 
+Feel free to contact me at mohsen.sadeghi@fu-berlin.de if you have questions or comments.
+
 The ```notebooks```  folder contains the Jupyter notebooks pertaining to the examples being discussed in the course.
 You can open each notebook here in **github**, or use the button at the top of the notebook to be directed to **Google Colaboratory**, which opens an identical colab notebook. If you are signed in with a Google account, you can run the colab notebook in your browser.
 
