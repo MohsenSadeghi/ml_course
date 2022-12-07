@@ -13,6 +13,6 @@ The ```presentation```  folder contains the material used during the presentatio
 
 ### Copyright
 
-Copyright (c) 2022, Mohsen Sadeghi (mohsen.sadeghi@fu-berlin),
-Artificial Intelligence for the Sciences Group (AI4Science),
+Copyright (c) 2022, Mohsen Sadeghi (mohsen.sadeghi@fu-berlin), <br />
+Artificial Intelligence for the Sciences Group (AI4Science), <br />
 Freie Universität Berlin, Germany.
