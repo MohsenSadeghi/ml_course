@@ -10,3 +10,9 @@ You can open each notebook here in **github**, or use the button at the top of t
 The data used by the machine learning codes are freely available at https://ftp.mi.fu-berlin.de/pub/cmb-data/mohsen_data. But I have included code in the notebooks that will download this data upon need (also works with Google colab).
 
 The ```presentation```  folder contains the material used during the presentation of the course (the slides).
+
+### Copyright
+
+Copyright (c) 2022, Mohsen Sadeghi (mohsen.sadeghi@fu-berlin),
+Artificial Intelligence for the Sciences Group (AI4Science),
+Freie Universität Berlin, Germany.
